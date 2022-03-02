@@ -19,7 +19,7 @@
     
     z = 11
 
-- All code related to axis 'Z' on /main.py reffers to a third dimension, which could not be implemented on a traditional mouse.
+- All code related to axis 'Z' on /main.py reffers to a third dimension, which could not be implemented on a traditional mouse. However it was adapted to be used as a trigger mechanism, assigning the left-mouse button as the switch.
 
 
 ## Just some more notes
