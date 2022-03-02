@@ -12,8 +12,11 @@
 - The arduino model used for creation and testing was the 'tatuino diecimila griffus 28:1,1'. The premade driver for the arduino is 'Firmata'
 
 - The default arduino ports used to connect to each axis are:
+
     x = 9
+    
     y = 10
+    
     z = 11
 
 - All code related to axis 'Z' on /main.py reffers to a third dimension, which could not be implemented on a traditional mouse.
