@@ -1,5 +1,6 @@
 ## Just some notes
 
+```py
 class DHT:
     def __init__(self, data):
         self.data['one'] = '1'
@@ -9,10 +10,9 @@ class DHT:
         print(self.data)
 
 if __name__ == '__main__': DHT().showData()
+```
 
-
-
-
+```py
 class DHT:
     def __init__(self):
         self.data = {}
@@ -24,3 +24,4 @@ class DHT:
 
 if __name__ == '__main__':
     DHT().showData()
+```
